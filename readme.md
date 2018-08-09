@@ -1,6 +1,6 @@
 # 💻Exercism Solutions💡
 
-This repository holds my solutions to the [Exercism](exercism.io) challenges.
+This repository holds my solutions to the [Exercism](https://exercism.io/) challenges.
 
 The theme of these challenges is to learn how to use the languages by solving algorithmic challenges using a __`TDD`__ approach.
 
