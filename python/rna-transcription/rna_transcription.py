@@ -7,9 +7,6 @@ DNA_TO_RNA = {
 
 KEYS = set(DNA_TO_RNA.keys())
 
-def dna_nucleotide_compliment(letter):
-    return DNA_TO_RNA[letter]
-
 def to_rna(dna_strand):
     '''Return the RNA complement of a DNA string'''
     rna = ''
